@@ -35,7 +35,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </image>
 <itunes:category text="{{ site.podcast_category }}">
 </itunes:category>
-{% for ep in site.categories.podcast %}
+{% for ep in site.categories[include.category] %}
   <item>
     <title>{{ ep.title }}</title>
     <link>{{ site.url }}{{ site.baseurl }}{{ ep.url }}</link>
