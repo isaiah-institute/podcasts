@@ -59,7 +59,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ include.author }}</itunes:author>
-    <itunes:image href="{{ site.url }}{{ site.baseurl }}{{ include.album_art }}" />
+    <itunes:image href="{{ include.album_art }}" />
     <itunes:explicit>{{ include.explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
   </item>
