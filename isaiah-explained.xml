@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="isaiah-explained" title="Isaiah Explained" filename="isaiah-explained" author="Avraham Gileadi" description="Isaiah Institute Translation of Isaiah by Avraham Gileadi Ph.D." album_art="https://nilbus.github.io/podcasts/assets/images/isaiah-explained.png" %}

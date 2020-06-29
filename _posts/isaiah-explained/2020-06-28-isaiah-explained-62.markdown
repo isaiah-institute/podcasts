@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Isaiah 62"
+date:   2020-06-28-10:21:02 -0500
+categories: isaiah-explained
+podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah62.mp3
+---
