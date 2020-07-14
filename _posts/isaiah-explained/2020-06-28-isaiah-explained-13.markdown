@@ -6,3 +6,4 @@ podcast_duration: 00:21:51
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah13.mp3
 ---
+The Assyrian alliance destroys the wicked world that is Babylon as God destroyed Sodom and Gomorrah.

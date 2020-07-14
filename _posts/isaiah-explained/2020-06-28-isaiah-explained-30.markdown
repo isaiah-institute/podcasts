@@ -6,3 +6,4 @@ podcast_duration: 00:36:47
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah30.mp3
 ---
+At Jehovah’s coming the rebellious suffer destruction but those who prove loyal enjoy deliverance.

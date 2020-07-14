@@ -6,3 +6,4 @@ podcast_duration: 00:37:40
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah54.mp3
 ---
+Jehovah’s millennial covenant is a composite of all covenants he made with his people and with individuals.

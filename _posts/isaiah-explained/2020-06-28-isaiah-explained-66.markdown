@@ -6,3 +6,4 @@ podcast_duration: 00:40:27
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah66.mp3
 ---
+Cultic practices and persecution by ecclesiastical leaders coincide with Zion’s rebirth before Jehovah comes.

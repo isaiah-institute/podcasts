@@ -6,3 +6,4 @@ podcast_duration: 00:05:25
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah20.mp3
 ---
+Assyria subjugates the superpower Egypt after Jehovah’s prophet–servant gives three years’ warning.

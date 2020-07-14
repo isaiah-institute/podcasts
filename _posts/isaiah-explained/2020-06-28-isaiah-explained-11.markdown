@@ -6,3 +6,4 @@ podcast_duration: 00:36:05
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah11.mp3
 ---
+As an ensign to the nations Jehovah’s servant gathers a remnant of Israel and Judah in a new exodus.

@@ -6,3 +6,4 @@ podcast_duration: 00:33:26
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah44.mp3
 ---
+Jehovah’s servant resembles Moses and Cyrus in dissuading people from idols and rebuilding the temple.
