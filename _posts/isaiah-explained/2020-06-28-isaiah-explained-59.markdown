@@ -6,4 +6,4 @@ podcast_duration: 00:33:41
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah59.mp3
 ---
-Jehovah’s coming spells retribution for deceivers and predators but deliverance for those who repent
+Jehovah’s coming spells retribution for predators and deceivers but deliverance for those who repent
