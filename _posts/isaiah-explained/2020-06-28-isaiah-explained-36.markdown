@@ -6,4 +6,4 @@ podcast_duration: 00:25:30
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah36.mp3
 ---
-The king of Assyria invades many lands and lays siege to a remnant of Jehovah’s people in Jerusalem.
+The king of Assyria invades many lands and lays siege to a remnant of Jehovah’s people in Jerusalem

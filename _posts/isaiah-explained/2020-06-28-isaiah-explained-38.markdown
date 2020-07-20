@@ -6,4 +6,4 @@ podcast_duration: 00:23:53
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah38.mp3
 ---
-When interceding with Jehovah on behalf of his people against Assyria, Hezekiah suffers nearly to death.
+When interceding with Jehovah on behalf of his people against Assyria, Hezekiah suffers nearly to death

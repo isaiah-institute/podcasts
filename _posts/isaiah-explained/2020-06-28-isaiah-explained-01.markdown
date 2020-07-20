@@ -6,4 +6,4 @@ podcast_duration: 01:34:14
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah1.mp3
 ---
-Israel’s ancient apostasy typifies an end-time apostasy, with salvation reserved for some who repent.
+Israel’s ancient apostasy typifies an end-time apostasy, with salvation reserved for some who repent

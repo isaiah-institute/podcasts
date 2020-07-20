@@ -6,4 +6,4 @@ podcast_duration: 00:17:45
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah58.mp3
 ---
-Relieving the oppressed and observing the Sabbath sanctify fast days and beget covenant blessings.
+Relieving the oppressed and observing the Sabbath sanctify fast days and beget covenant blessings

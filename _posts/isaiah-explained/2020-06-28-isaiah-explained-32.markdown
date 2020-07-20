@@ -6,4 +6,4 @@ podcast_duration: 00:19:01
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah32.mp3
 ---
-Jehovah guides and protects the just but he turns the tables on perverse preachers and complacent women.
+Jehovah guides and protects the just but he turns the tables on perverse preachers and complacent women

@@ -6,4 +6,4 @@ podcast_duration: 00:10:08
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah27.mp3
 ---
-At his harvest of the earth’s wicked, Jehovah gleans out individually his people who bear good fruit.
+At his harvest of the earth’s wicked, Jehovah gleans out individually his people who bear good fruit
