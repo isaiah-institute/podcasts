@@ -12,7 +12,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <channel>
 <title>{{ include.title }}</title>
 <atom:link href="{{ site.url }}{{ site.baseurl }}/{{ include.filename }}.xml" rel="self" type="application/rss+xml" />
-<link>{{ site.url }}{{ site.baseurl }}</link>
+<link>{% if include.site_url %}{{ include.site_url }}{% else %}{{ site.url }}{{ site.baseurl }}{% endif %}</link>
 <description>{{ include.description }}</description>
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 <language>en-US</language>
