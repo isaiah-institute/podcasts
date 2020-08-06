@@ -21,6 +21,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <generator>http://jekyllrb.com</generator>
 <itunes:summary>{{ include.description }}</itunes:summary>
 <itunes:author>{{ include.author }}</itunes:author>
+<copyright>{{ site.time | date: "%Y" }} {{ include.owner_name | default: site.podcast_owner }}</copyright>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
 <itunes:image href="{{ include.album_art }}" />
 <itunes:owner>
