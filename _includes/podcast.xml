@@ -24,8 +24,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
 <itunes:image href="{{ include.album_art }}" />
 <itunes:owner>
-<itunes:name>{{ site.podcast_owner }}</itunes:name>
-<itunes:email>{{ site.podcast_email }}</itunes:email>
+<itunes:name>{{ include.owner_name | default: site.podcast_owner }}</itunes:name>
+<itunes:email>{{ include.owner_email | default: site.podcast_email }}</itunes:email>
 </itunes:owner>
 <managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
 <image>
