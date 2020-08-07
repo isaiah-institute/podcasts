@@ -30,9 +30,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-podcast_owner: ""
-podcast_email: ""
-podcast_category: ""
+podcast_owner: "Isaiah Institute"
+podcast_email: "admin@isaiahinstitute.com"
+podcast_category: "Religion &amp; Spirituality"
+podcast_subcategory: "Christianity"
 podcast_explicit: "no"
 
 # Exclude from processing.
