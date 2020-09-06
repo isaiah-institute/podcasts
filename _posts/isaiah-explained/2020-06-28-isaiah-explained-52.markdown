@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Isaiah 52"
-date:   2020-06-28-10:20:52 -0500
+date:   2020-07-11-12:00:00 -0500
 podcast_duration: "00:25:15"
 categories: isaiah-explained
 podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah52.mp3
