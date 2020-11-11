@@ -6,4 +6,3 @@ podcast_duration: ""
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_11_v1.mp3
 ---
-Description
