@@ -2,7 +2,7 @@
 layout: post
 title:  "3. Who Are of the House of Israel?"
 date:   2020-10-29-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:14:22"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_03_v1.mp3
 ---

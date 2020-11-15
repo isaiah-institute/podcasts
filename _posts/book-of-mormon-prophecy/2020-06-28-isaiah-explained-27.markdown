@@ -2,7 +2,7 @@
 layout: post
 title:  "27. Translated Beings as Exemplars"
 date:   2020-10-05-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:22:45"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_27_v1.mp3
 ---

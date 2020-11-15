@@ -2,7 +2,7 @@
 layout: post
 title:  "22. What Is “Ripening in Iniquity”?"
 date:   2020-10-10-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:20:04"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_22_v1.mp3
 ---

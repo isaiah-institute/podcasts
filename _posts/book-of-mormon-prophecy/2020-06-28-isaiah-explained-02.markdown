@@ -2,7 +2,7 @@
 layout: post
 title:  "2. Who Are the Gentiles Spoken of?"
 date:   2020-10-30-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:17:45"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_02_v1.mp3
 ---

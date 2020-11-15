@@ -2,7 +2,7 @@
 layout: post
 title:  "28. On Becoming Brothers of Jared"
 date:   2020-10-04-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:30:00"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_28_v1.mp3
 ---

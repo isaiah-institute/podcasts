@@ -2,7 +2,7 @@
 layout: post
 title:  "15. Effects of the Wilderness Journey"
 date:   2020-10-17-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:23:34"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_15_v1.mp3
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "5. What Are the Missing Covenants?"
 date:   2020-10-27-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:19:47"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_05_v1.mp3
 ---

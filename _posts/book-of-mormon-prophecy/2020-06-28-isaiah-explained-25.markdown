@@ -2,7 +2,7 @@
 layout: post
 title:  "25. The Mission of God’s Servant"
 date:   2020-10-07-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:32:14"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_25_v1.mp3
 ---

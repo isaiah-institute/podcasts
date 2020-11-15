@@ -2,7 +2,7 @@
 layout: post
 title:  "18. God’s Reversal of Circumstances"
 date:   2020-10-14-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:27:15"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_18_v1.mp3
 ---

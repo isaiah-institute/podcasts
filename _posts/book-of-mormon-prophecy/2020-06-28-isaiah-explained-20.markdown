@@ -2,7 +2,7 @@
 layout: post
 title:  "20. The Latter-Day King of Assyria"
 date:   2020-10-12-12:00:00 -0500
-podcast_duration: ""
+podcast_duration: "00:29:34"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_20_v1.mp3
 ---
