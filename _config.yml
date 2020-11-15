@@ -23,7 +23,7 @@ email: admin@isaiahinstitute.ccom
 description: >-
   Podcasts published by the Isaiah Institute
 baseurl: "/podcasts" # the subpath of your site, e.g. /blog
-url: "https://isaiah-institute.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isaiahinstitute.com/free-podcast/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
