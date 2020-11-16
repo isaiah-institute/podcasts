@@ -6,4 +6,4 @@ podcast_duration: "00:17:56"
 categories: book-of-mormon-prophecy
 podcast_link: http://downloads.isaiahinstitute.com/bookofmormonprophecypodcast/Episode_24_v1.mp3
 ---
-Do Latter-day Saints realize the Book of Mormon contains mostly lesser things than God wants to give us. What must we do to qualify for greater things?
+Do Latter-day Saints realize the Book of Mormon contains mostly lesser things than God wants to give us? What must we do to qualify for greater things?
