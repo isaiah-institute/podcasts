@@ -4,6 +4,6 @@ title:  "Isaiah 16"
 date:   2020-08-16-12:00:00 -0500
 podcast_duration: "00:11:59"
 categories: isaiah-explained
-podcast_link: http://www.isaiahexplained.com/media/commentary/Isaiah16.mp3
+podcast_link: https://www.isaiahexplained.com/media/commentary/Isaiah16.mp3
 ---
 Moab’s prideful people receive three years’ warning before Jehovah destroys them and their land
