@@ -18,6 +18,11 @@ This podcast / site is built with Jekyll and is published via GitHub pages short
 - "Your site is ready to be published" (blue) = updates pending
 - "Your site is published" (green) = changes are live
 
+Publishing a new podcast
+------------------------
+
+See the [Publishing a new podcast](https://github.com/isaiah-institute/podcasts/wiki/Publishing-a-new-podcast) wiki page.
+
 Testing changes locally
 -----------------------
 
