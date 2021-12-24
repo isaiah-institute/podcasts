@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "01 - Defining Moses in God’s “Similitude”"
-date:   2021-12-325-12:00:00 -0500
+date:   2021-12-25-12:00:00 -0500
 podcast_duration: "00:04:26"
 categories: old-testament-studies
 podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-01.mp3
