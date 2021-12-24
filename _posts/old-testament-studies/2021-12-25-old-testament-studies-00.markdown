@@ -4,7 +4,7 @@ title:  "01 - Old Testament studies podcast introduction"
 date:   2021-12-325-12:00:00 -0500
 podcast_duration: "00:04:17"
 categories: old-testament-studies
-podcast_link: https://www.isaiahexplained.com/media/old-testament-studies/II-OT-00.mp3
+podcast_link: https://www.isaiahexplained.com/downloads/old-testament-studies/II-OT-00.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
