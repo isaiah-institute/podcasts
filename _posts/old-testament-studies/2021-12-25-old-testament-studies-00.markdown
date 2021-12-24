@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "01 - Old Testament studies podcast introduction"
+title:  "00 - Old Testament studies podcast introduction"
 date:   2021-12-25-12:00:00 -0500
 podcast_duration: "00:04:17"
 categories: old-testament-studies
