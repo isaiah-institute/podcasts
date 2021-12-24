@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="old-testament-studies" title="Studies in the Old Testament" filename="old-testament-studies" author="Avraham Gileadi, Ph.D., the Isaiah Institute" album_art="https://isaiah-institute.github.io/podcasts/assets/images/old-testament-studies.jpg" description="Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament." %}
