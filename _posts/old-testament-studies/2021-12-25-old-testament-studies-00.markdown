@@ -1,12 +1,7 @@
 ---
 layout: post
-<<<<<<< HEAD
-title:  "01 - Old Testament studies podcast introduction"
-date:   2021-12-23-00:00:00 -0000
-=======
 title:  "00 - Old Testament studies podcast introduction"
-date:   2021-12-25-12:00:00 -0500
->>>>>>> 42d5f6ce00f001401e93e7bd2f08c8850910cbcf
+date:   2021-12-23-00:00:00 -0000
 podcast_duration: "00:04:17"
 categories: old-testament-studies
 podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-00.mp3
