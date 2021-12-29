@@ -9,5 +9,3 @@ podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
 [Endtime Prophecy: A Judeo-Mormon Analysis](https://isaiahinstitute.com/product/endtime-prophecy-a-judeo-mormon-analysis/) is available among other study resources at the [Isaiah Institute store](https://isaiahinstitute.com/store/).
-
-Copyright of the content of this podcast by Isaiah Institute. Do not republish any part or form, except for personal use only.

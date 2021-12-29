@@ -53,5 +53,3 @@ Notes and references:
 04:58 - Romans 8:17  
 
 [Endtime Prophecy: A Judeo-Mormon Analysis](https://isaiahinstitute.com/product/endtime-prophecy-a-judeo-mormon-analysis/) is available among other study resources at the [Isaiah Institute store](https://isaiahinstitute.com/store/).
-
-Copyright of the content of this podcast by Isaiah Institute. Do not republish any part or form, except for personal use only.
