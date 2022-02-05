@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "06 - Defining Noah’s Flood as a Type"
-date:   2022-01-30-00:00:00 -0000
-podcast_duration: "00:07:00"
+title:  "07 - Defining Abraham’s Role as a Savior"
+date:   2022-02-06-00:00:00 -0000
+podcast_duration: "00:08:48"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-06.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-07.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
