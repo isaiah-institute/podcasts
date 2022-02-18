@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "08 - Defining Esau as a Type of Apostates"
+title:  "08 - Defining Abraham’s Role as a Savior"
 date:   2022-02-13-00:00:00 -0000
-podcast_duration: "00:08:02"
+podcast_duration: "00:08:09"
 categories: old-testament-studies
 podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-08.mp3
 ---
