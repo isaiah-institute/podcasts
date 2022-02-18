@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "07 - Defining Abraham’s Role as a Savior"
+title:  "07 - Defining the Abrahamic Covenant"
 date:   2022-02-06-00:00:00 -0000
 podcast_duration: "00:08:48"
 categories: old-testament-studies
