@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 - Defining Jacob’s Ladder to Heaven"
-date:   2022-02-27-00:00:00 -0000
+date:   2022-02-25-00:00:00 -0000
 podcast_duration: "00:07:39"
 categories: old-testament-studies
 podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-10.mp3
