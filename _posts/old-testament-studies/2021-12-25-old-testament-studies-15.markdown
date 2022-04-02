@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "14 - Defining the Premise of Plagues"
-date:   2022-03-25-00:00:00 -0000
-podcast_duration: "00:08:04"
+title:  "15 - Defining the Exodus as a Rebirth"
+date:   2022-04-02-00:00:00 -0000
+podcast_duration: "00:08:43"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-14.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-15.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
