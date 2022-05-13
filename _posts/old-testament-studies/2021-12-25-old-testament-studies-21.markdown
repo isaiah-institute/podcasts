@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "20 - Defining the “Oneness” of God"
-date:   2022-05-06-00:00:00 -0000
-podcast_duration: "00:06:47"
+title:  "21 - Defining a Function of Patriarchy"
+date:   2022-05-13-00:00:00 -0000
+podcast_duration: "00:06:04"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-20.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-21.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
