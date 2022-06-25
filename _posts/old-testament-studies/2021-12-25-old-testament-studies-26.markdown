@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "25 - Defining Types of an End-Time David"
-date:   2022-06-17-00:00:00 -0000
-podcast_duration: "00:05:40"
+title:  "26 - Defining the Spirit and Power of Elijah"
+date:   2022-06-24-00:00:00 -0000
+podcast_duration: "00:05:57"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-25.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-26.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
