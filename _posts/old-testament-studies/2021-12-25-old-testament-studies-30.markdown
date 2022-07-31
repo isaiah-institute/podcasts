@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "30 - Defining a Type of Genocidal Decree (Esther)"
+title:  "30 - Defining a Type of Genocidal Decree"
 date:   2022-07-22-00:00:00 -0000
 podcast_duration: "00:06:05"
 categories: old-testament-studies
