@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "33 - Defining Types of Descent and Ascent"
-date:   2022-08-12-00:00:00 -0000
-podcast_duration: "00:06:06"
+title:  "34 - Defining Types of Petition and Testimony"
+date:   2022-08-19-00:00:00 -0000
+podcast_duration: "00:06:45"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-33.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-34.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
