@@ -2,7 +2,7 @@
 layout: post
 title:  "36 - Defining the End-Time King of Assyria"
 date:   2022-09-02-00:00:00 -0000
-podcast_duration: "00:06:06"
+podcast_duration: "00:06:42"
 categories: old-testament-studies
 podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-36.mp3
 ---
