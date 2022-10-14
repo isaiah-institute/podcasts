@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "41 - Defining a Pattern of Apostasy”"
+title:  "42 - Defining Who Is God’s Servant David”"
 date:   2022-09-30-00:00:00 -0000
 podcast_duration: "00:06:58"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-41.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-42.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
