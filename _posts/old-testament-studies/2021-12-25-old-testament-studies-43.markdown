@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "41 - Defining a Pattern of Apostasy”"
-date:   2022-10-07-00:00:00 -0000
-podcast_duration: "00:06:58"
+title:  "43 - Defining a Foreshadowing of the Servant”"
+date:   2022-10-21-00:00:00 -0000
+podcast_duration: "00:08:58"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-41.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-43.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
