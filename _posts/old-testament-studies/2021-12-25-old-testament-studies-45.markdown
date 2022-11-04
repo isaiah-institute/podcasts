@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "44 - Defining the Rise of God’s Kingdom”"
-date:   2022-10-28-00:00:00 -0000
-podcast_duration: "00:07:14"
+title:  "45 - Defining a Northern Invasion”"
+date:   2022-11-04-00:00:00 -0000
+podcast_duration: "00:07:51"
 categories: old-testament-studies
-podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-44.mp3
+podcast_link: https://downloads.isaiahinstitute.com/old-testament-studies/II-OT-45.mp3
 ---
 Avraham Gileadi offers insights and commentary on specific parts of weekly readings from the Old Testament.
 
